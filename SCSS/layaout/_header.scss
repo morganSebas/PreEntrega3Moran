@@ -1,0 +1,13 @@
+header {
+    background-color: yellow;
+@include flex ;
+    div {
+ width: 10%;
+    }
+}
+.header-index {
+  img { 
+    size: 50%;
+    width: 50%;
+    height: 50%;}
+}
